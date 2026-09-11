@@ -1,0 +1,35 @@
+# User data
+config.json
+config.json.bak
+pet_state.json
+pet_state.json.bak
+session_recovery.json
+logs/
+*.log
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.venv/
+pip-wheel-metadata/
+
+# Build output
+build/
+dist/
+*.spec
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
