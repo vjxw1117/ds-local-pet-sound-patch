@@ -67,4 +67,3 @@ python main.py
 - PySide6 / Qt：LGPL / 商业双许可，由使用者自行通过 `pip install PySide6` 安装。
 - 14 个 WAV 由本项目用 Python 标准库程序生成，作为原创音效随本仓库以 MIT 发布。
 
-本项目是非官方同人项目，与 DeepSeek（深度求索）无隶属或背书关系。
